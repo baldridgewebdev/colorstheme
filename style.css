@@ -9,66 +9,7 @@ License: MIT
 License URI: https://mit-license.org/
 Text Domain: barebones
 */
-/**
- * Breakpoints
- */
-/**
- * Typography
- */
-/**
- * Grid
- */
-/**
- * Colors
- */
-/**
- * Spacing
- */
-/**
-* Font Sizes
-*/
-/**
- * Components
- */
-/**
- * Animations
- */
-/*
- * Media query to respond to a minimum size (mobile first)
- */
-/*
- * Media query to respond to a maximum size
- */
-/*
- * Output font size in px/rem
- */
-/*
- * Placeholder mixin for <input>
- */
-/**
- * Clearfix
- */
-/**
- * Default variables and helper mixins
- */
-/**
- * Space between columns
- */
-/**
- * Max width of container
- */
-/**
- * Number of total columns
- */
-/**
- * Breakpoints
- */
-/**
- * Grid loop mixin
- */
-/**
- * Clearfix
- */
+
 /**
  * Grid scaffolding
  */
@@ -1728,3 +1669,4 @@ small {
   color: #D9534F;
   border-color: #D9534F;
 }
+
