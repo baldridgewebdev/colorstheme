@@ -1,3 +1,3 @@
-# barebones changelog
-## 3.0
-* Refreshed simplified tooling, new feaatures and improvements 
+# Colors changelog
+## 0.1
+* Inital setup.  More to come.
