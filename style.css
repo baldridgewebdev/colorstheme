@@ -1733,6 +1733,7 @@ a.wp-block-file__button.wp-element-button:hover {
     text-align: center;
     border: solid 1px;
     transition: all .3s;
+    max-width: 95%!important;
 }
 
 .wp-block-file:has(a.wp-block-file__button.wp-element-button:hover) {
